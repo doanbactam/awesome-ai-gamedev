@@ -2,7 +2,7 @@
 
 A curated list of resources for building games with AI-assisted workflows.
 
-Contributions are welcome. The list is intentionally empty while its structure and curation guidelines are established.
+Contributions are welcome. See the guidelines below to suggest a resource.
 
 ## Contents
 
@@ -24,7 +24,8 @@ Contributions are welcome. The list is intentionally empty while its structure a
 
 ## Art & Animation
 
-<!-- Add vetted resources in alphabetical order. -->
+- [My Games Art Style](https://mygamesartstyle.jupiterthewarlock.com/) - A game art-style reference website for visual inspiration.
+- [PixelFX](https://github.com/patch-gg/pixelfx) - A collection of code-based pixel-art effects with a Claude Code skill for creating custom effects.
 
 ## Audio
 
@@ -36,7 +37,7 @@ Contributions are welcome. The list is intentionally empty while its structure a
 
 ## Game Engineering
 
-<!-- Add vetted resources in alphabetical order. -->
+- [GameDev Cheatsheet](https://gamedev-cheatsheet.com/) - A visual cheatsheet of game development concepts and techniques.
 
 ## Game Feel
 
