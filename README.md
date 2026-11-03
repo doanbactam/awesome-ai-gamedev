@@ -10,8 +10,8 @@ Contributions are welcome. The list is intentionally empty while its structure a
 - [Art & Animation](#art--animation)
 - [Audio](#audio)
 - [Game Design](#game-design)
-- [Game Feel](#game-feel)
 - [Game Engineering](#game-engineering)
+- [Game Feel](#game-feel)
 - [Optimization](#optimization)
 - [Publishing](#publishing)
 - [Testing & QA](#testing--qa)
@@ -34,11 +34,11 @@ Contributions are welcome. The list is intentionally empty while its structure a
 
 <!-- Add vetted resources in alphabetical order. -->
 
-## Game Feel
+## Game Engineering
 
 <!-- Add vetted resources in alphabetical order. -->
 
-## Game Engineering
+## Game Feel
 
 <!-- Add vetted resources in alphabetical order. -->
 
